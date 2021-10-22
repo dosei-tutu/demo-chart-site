@@ -1,0 +1,6 @@
+body {background-color:lightgrey;
+}
+div#main {
+  max-width:600px;
+  margin:0 auto;
+}
